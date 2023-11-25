@@ -59,7 +59,8 @@ This project involved building and analyzing multiple neural network models to p
 ## Alternative Model 2
 
 - **Number of Hidden Layers:** 2
-- **Hidden Layer Nodes:** 16, 18
+- **Hidden Layer 1 Nodes:** 16
+- **Hidden Layer 2 Nodes:** 18
 - **Activation Functions:** ReLU, Softmax
 - **Epochs:** 50
 
