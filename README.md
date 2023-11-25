@@ -1,6 +1,6 @@
 # Module_13_Challenge: Alphabet Soup Neural Network Analysis
 
-This project involves building and analyzing multiple neural network models to predict the success of startups funded by Alphabet Soup. The models are optimized to improve predictive accuracy, and the results of each model are compared for evaluation.
+This project involved building and analyzing multiple neural network models to predict the success of startups funded by Alphabet Soup. The models are optimized to improve predictive accuracy, and the results of each model are compared for evaluation.
 
 ## Data Preprocessing
 
@@ -73,4 +73,3 @@ This project involves building and analyzing multiple neural network models to p
 The original model achieved the highest accuracy at 72.77%, while Alternative Model 1 slightly improved the accuracy to 72.91%. However, Alternative Model 2 performed poorly with an accuracy of 52.92%.
 
 For all models, we had 116 input features and one output. The number of hidden layers, nodes, and activation functions varied among the models to explore different architectures.
-
